@@ -1,0 +1,12 @@
+proprietary/odm/lib64/aiframe/libQnnHtpPrepare.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/camera/awb_parameter_qtech_s5kjn5_tele.bin filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/libarcsoft_dualcam_refocus_left.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/libarcsoft_dualcam_refocus_uw.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/libarcsoft_turbo_fusion_raw_portrait_super_night.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/libarcsoft_turbo_fusion_raw_super_night.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/libarcsoft_turbo_hdr_raw.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/libarcsoft_turbo_hdr_raw_front.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/libcvface_api.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/libstblur_capture_api.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/oplusmss/libQnnHtpPrepare.so filter=lfs diff=lfs merge=lfs -text
+radio/* filter=lfs diff=lfs merge=lfs -text

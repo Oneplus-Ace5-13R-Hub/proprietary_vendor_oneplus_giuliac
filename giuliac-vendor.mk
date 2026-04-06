@@ -823,6 +823,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/giuliac/proprietary/odm/etc/sensor/config/lanai_mtp_oplus_smart_prox.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/lanai_mtp_oplus_smart_prox.json \
     vendor/oneplus/giuliac/proprietary/odm/etc/sensor/config/lanai_mtp_pocket.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/lanai_mtp_pocket.json \
     vendor/oneplus/giuliac/proprietary/odm/etc/sensor/config/lux_aod.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/lux_aod.json \
+    vendor/oneplus/giuliac/proprietary/odm/etc/sensor/config/oplus_car_motion.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/oplus_car_motion.json \
     vendor/oneplus/giuliac/proprietary/odm/etc/sensor/sensor_config.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/sensor_config.json \
     vendor/oneplus/giuliac/proprietary/odm/etc/usecaseKvManager.xml:$(TARGET_COPY_OUT_ODM)/etc/usecaseKvManager.xml \
     vendor/oneplus/giuliac/proprietary/odm/etc/wifi/kiwi/bdwlan.b0c:$(TARGET_COPY_OUT_ODM)/etc/wifi/kiwi/bdwlan.b0c \
@@ -1335,6 +1336,7 @@ PRODUCT_PACKAGES += \
     libdisplayskuutils \
     libdpp_manager \
     libdpps \
+    libdtlm \
     libdualcam_optical_zoom_control_vendor \
     libdualcam_video_optical_zoom_vendor \
     libeepromcutter \

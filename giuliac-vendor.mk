@@ -115,7 +115,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/giuliac/proprietary/odm/etc/camera/cfr_bin/CFR_imx906.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/cfr_bin/CFR_imx906.bin \
     vendor/oneplus/giuliac/proprietary/odm/etc/camera/cfr_bin/CFR_s5kjn5_giulia.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/cfr_bin/CFR_s5kjn5_giulia.bin \
     vendor/oneplus/giuliac/proprietary/odm/etc/camera/conf_tuning_params.json:$(TARGET_COPY_OUT_ODM)/etc/camera/conf_tuning_params.json \
-    vendor/oneplus/giuliac/proprietary/odm/etc/camera/config/camera_third_party_feature_config.protobuf:$(TARGET_COPY_OUT_ODM)/etc/camera/config/camera_third_party_feature_config.protobuf \
     vendor/oneplus/giuliac/proprietary/odm/etc/camera/config/camera_unit_config:$(TARGET_COPY_OUT_ODM)/etc/camera/config/camera_unit_config \
     vendor/oneplus/giuliac/proprietary/odm/etc/camera/config/camera_unit_feature_config.protobuf:$(TARGET_COPY_OUT_ODM)/etc/camera/config/camera_unit_feature_config.protobuf \
     vendor/oneplus/giuliac/proprietary/odm/etc/camera/config/imx355:$(TARGET_COPY_OUT_ODM)/etc/camera/config/imx355 \
